@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "DTD/xhtml1-strict.dtd">
 
-  <html>
+<html>
 
   <head>
 
@@ -210,6 +210,7 @@
   </head>
 
   <body style="font-size: 12px;">
+
   <table width="100%">
 
   <tr>
@@ -234,7 +235,7 @@
 
 
   </td>
-  <td align="right" style="width: 200px;"><form action="index.php" method="post"><input type="hidden" name="sessid" value="03a0aaf5a2147a00256e7185e9771140"/>
+  <td align="right" style="width: 200px;"><form action="index.php" method="post"><input type="hidden" name="sessid" value="0fe551d645c0219894fc0c04b7177935"/>
 <table><tr><td>
 <input type="text" name="loginuser" class="text" size="10" tabindex="1"/>
 </td><td>
@@ -291,7 +292,7 @@
 <table>
 <tr>
 <td class="title" style="width: 660px;">
-News 26.01.2002</td>
+News 07.02.2002</td>
 </tr>
 </table>
 <br/>
@@ -361,4 +362,4 @@ Danke<br/></td></tr><tr><td style="text-align: right;" align="left"><a href="ind
 
   </body>
 
-  </html>
+</html>
