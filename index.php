@@ -31,7 +31,7 @@
 
   a:hover {
 
-    background-color: #000070;
+    background-color: #007000;
 
     text-decoration: none;
 
@@ -97,13 +97,13 @@
 
   td.main {
 
-    background-color: #000055;
+    background-color: #005500;
 
     border-style: solid;
 
     border-width: 1px;
 
-    border-color: #0000AA;
+    border-color: #00AA00;
 
   }
 
@@ -113,11 +113,11 @@
 
     border-style: solid;
 
-    border-color: #0000CC;
+    border-color: #00CC00;
 
     border-width: 1px;
 
-    background-color: #000040;
+    background-color: #004000;
 
     font-size: 12px;
 
@@ -139,7 +139,7 @@
 
     border: 0px;
 
-    background-color: #000055;
+    background-color: #005500;
 
   }
 
@@ -155,9 +155,9 @@
 
     border-width: 1px;
 
-    border-color: #0000CC;
+    border-color: #00CC00;
 
-    background-color: #000040;
+    background-color: #004000;
 
     color: #FFFFFF;
 
@@ -173,9 +173,9 @@
 
     border-width: 1px;
 
-    border-color: #0000CC;
+    border-color: #00CC00;
 
-    background-color: #000040;
+    background-color: #004000;
 
     color: #FFFFFF;
 
@@ -185,7 +185,7 @@
 
     border-style: solid;
 
-    border-color: #0000CC;
+    border-color: #00CC00;
 
     border-width: 1px;
 
@@ -197,7 +197,7 @@
 
 		font-size: 11px;
 
-		background-color: #000040;
+		background-color: #004000;
 
 		color: #FFFFFF;
 
@@ -230,7 +230,7 @@
   
   <big>
 
-  <img src="img/logo/blue.png" alt="fraggeria logo"/>
+  <img src="img/logo/green.png" alt="fraggeria logo"/>
   </big>
 
 
@@ -257,7 +257,7 @@
   <td class="main" style="width: 660px;">
 <br /><br /><br /><br /><h1><center>Fraggeria 2...</center></h1><br /><br /><br /><br />Es wird eine Fraggeria 2 geben, wann ist allerdings noch unklar. Doch wir arbeiten dran.<br /><br /><a href='forum.php'>Froum</a><br /><a href='user.php'>Neuer Benutzer / my Profile</a><br /><br /><br /><br /></td></tr><td class="main" style="text-align: center;">
 
-  Copyright &copy; 2001 - 2003 <a href="http://www.zooomclan.org">zooomclan</a>
+  Copyright &copy; 2001 - 2004 <a href="http://www.zooomclan.org">zooomclan</a>
   </td>
 
   </tr>
