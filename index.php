@@ -31,7 +31,7 @@
 
   a:hover {
 
-    background-color: #707070;
+    background-color: #007070;
 
     text-decoration: none;
 
@@ -97,13 +97,13 @@
 
   td.main {
 
-    background-color: #555555;
+    background-color: #005555;
 
     border-style: solid;
 
     border-width: 1px;
 
-    border-color: #AAAAAA;
+    border-color: #00AAAA;
 
   }
 
@@ -113,11 +113,11 @@
 
     border-style: solid;
 
-    border-color: #CCCCCC;
+    border-color: #00CCCC;
 
     border-width: 1px;
 
-    background-color: #404040;
+    background-color: #004040;
 
     font-size: 12px;
 
@@ -139,7 +139,7 @@
 
     border: 0px;
 
-    background-color: #555555;
+    background-color: #005555;
 
   }
 
@@ -155,9 +155,9 @@
 
     border-width: 1px;
 
-    border-color: #CCCCCC;
+    border-color: #00CCCC;
 
-    background-color: #404040;
+    background-color: #004040;
 
     color: #FFFFFF;
 
@@ -173,9 +173,9 @@
 
     border-width: 1px;
 
-    border-color: #CCCCCC;
+    border-color: #00CCCC;
 
-    background-color: #404040;
+    background-color: #004040;
 
     color: #FFFFFF;
 
@@ -185,7 +185,7 @@
 
     border-style: solid;
 
-    border-color: #CCCCCC;
+    border-color: #00CCCC;
 
     border-width: 1px;
 
@@ -197,7 +197,7 @@
 
 		font-size: 11px;
 
-		background-color: #404040;
+		background-color: #004040;
 
 		color: #FFFFFF;
 
@@ -230,12 +230,12 @@
   
   <big>
 
-  <img src="img/logo/gray.png" alt="fraggeria logo"/>
+  <img src="img/logo/pink.png" alt="fraggeria logo"/>
   </big>
 
 
   </td>
-  <td align="right" style="width: 200px;"><form action="index.php" method="post"><input type="hidden" name="PHPSESSID" value="2385cd8ec11f8f3603ee73d53f6d19c2" />
+  <td align="right" style="width: 200px;"><form action="index.php" method="post">
 <table><tr><td>
 <input type="text" name="loginuser" class="text" size="10" tabindex="1"/>
 </td><td>
