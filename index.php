@@ -31,7 +31,7 @@
 
   a:hover {
 
-    background-color: #007070;
+    background-color: #700000;
 
     text-decoration: none;
 
@@ -97,13 +97,13 @@
 
   td.main {
 
-    background-color: #005555;
+    background-color: #550000;
 
     border-style: solid;
 
     border-width: 1px;
 
-    border-color: #00AAAA;
+    border-color: #AA0000;
 
   }
 
@@ -113,11 +113,11 @@
 
     border-style: solid;
 
-    border-color: #00CCCC;
+    border-color: #CC0000;
 
     border-width: 1px;
 
-    background-color: #004040;
+    background-color: #400000;
 
     font-size: 12px;
 
@@ -139,7 +139,7 @@
 
     border: 0px;
 
-    background-color: #005555;
+    background-color: #550000;
 
   }
 
@@ -155,9 +155,9 @@
 
     border-width: 1px;
 
-    border-color: #00CCCC;
+    border-color: #CC0000;
 
-    background-color: #004040;
+    background-color: #400000;
 
     color: #FFFFFF;
 
@@ -173,9 +173,9 @@
 
     border-width: 1px;
 
-    border-color: #00CCCC;
+    border-color: #CC0000;
 
-    background-color: #004040;
+    background-color: #400000;
 
     color: #FFFFFF;
 
@@ -185,7 +185,7 @@
 
     border-style: solid;
 
-    border-color: #00CCCC;
+    border-color: #CC0000;
 
     border-width: 1px;
 
@@ -197,7 +197,7 @@
 
 		font-size: 11px;
 
-		background-color: #004040;
+		background-color: #400000;
 
 		color: #FFFFFF;
 
@@ -230,7 +230,7 @@
   
   <big>
 
-  <img src="img/logo/pink.png" alt="fraggeria logo"/>
+  <img src="img/logo/red.png" alt="fraggeria logo"/>
   </big>
 
 
