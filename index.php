@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "DTD/xhtml1-strict.dtd">
 
-<html>
+  <html>
 
   <head>
 
   <title>Fraggeria! the zooom LAN</title>
 
-  <meta content="de" http-equiv="content-language"/>
+  <meta content="de" http-equiv="content-language" />
 
-  <meta http-equiv="content-type" content="text/html; charset=iso-8859-1"/>
+  <meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
 
-  <meta http-equiv="content-encoding" content="gzip"/>
+  <meta http-equiv="content-encoding" content="gzip" />
 
-  <meta name="revisit-after" content="20 days"/>
+  <meta name="revisit-after" content="20 days" />
 
   <style type="text/css">
 
@@ -31,7 +31,7 @@
 
   a:hover {
 
-    background-color: #007070;
+    background-color: #707070;
 
     text-decoration: none;
 
@@ -97,13 +97,13 @@
 
   td.main {
 
-    background-color: #005555;
+    background-color: #555555;
 
     border-style: solid;
 
     border-width: 1px;
 
-    border-color: #00AAAA;
+    border-color: #AAAAAA;
 
   }
 
@@ -113,11 +113,11 @@
 
     border-style: solid;
 
-    border-color: #00CCCC;
+    border-color: #CCCCCC;
 
     border-width: 1px;
 
-    background-color: #004040;
+    background-color: #404040;
 
     font-size: 12px;
 
@@ -139,7 +139,7 @@
 
     border: 0px;
 
-    background-color: #005555;
+    background-color: #555555;
 
   }
 
@@ -155,9 +155,9 @@
 
     border-width: 1px;
 
-    border-color: #00CCCC;
+    border-color: #CCCCCC;
 
-    background-color: #004040;
+    background-color: #404040;
 
     color: #FFFFFF;
 
@@ -173,9 +173,9 @@
 
     border-width: 1px;
 
-    border-color: #00CCCC;
+    border-color: #CCCCCC;
 
-    background-color: #004040;
+    background-color: #404040;
 
     color: #FFFFFF;
 
@@ -185,7 +185,7 @@
 
     border-style: solid;
 
-    border-color: #00CCCC;
+    border-color: #CCCCCC;
 
     border-width: 1px;
 
@@ -197,7 +197,7 @@
 
 		font-size: 11px;
 
-		background-color: #004040;
+		background-color: #404040;
 
 		color: #FFFFFF;
 
@@ -221,7 +221,7 @@
 
   <tr>
 
-  <td class="main" colspan="2" style="width: 800px;">
+  <td class="main" style="width: 800px;">
 
   
   <table width="100%" cellpadding="0" cellspacing="0">
@@ -230,12 +230,12 @@
   
   <big>
 
-  <img src="img/logo/pink.png" alt="fraggeria logo"/>
+  <img src="img/logo/gray.png" alt="fraggeria logo"/>
   </big>
 
 
   </td>
-  <td align="right" style="width: 200px;"><form action="index.php" method="post"><input type="hidden" name="sessid" value="0fe551d645c0219894fc0c04b7177935"/>
+  <td align="right" style="width: 200px;"><form action="index.php" method="post"><input type="hidden" name="PHPSESSID" value="2385cd8ec11f8f3603ee73d53f6d19c2" />
 <table><tr><td>
 <input type="text" name="loginuser" class="text" size="10" tabindex="1"/>
 </td><td>
@@ -254,100 +254,10 @@
 
   <tr>
 
-  <td class="main" style="width: 120px;">
+  <td class="main" style="width: 660px;">
+<br /><br /><br /><br /><h1><center>Fraggeria 2...</center></h1><br /><br /><br /><br />Es wird eine Fraggeria 2 geben, wann ist allerdings noch unklar. Doch wir arbeiten dran.<br /><br /><a href='forum.php'>Froum</a><br /><a href='user.php'>Neuer Benutzer / my Profile</a><br /><br /><br /><br /></td></tr><td class="main" style="text-align: center;">
 
-  <table width="120">
-
-  <tr>
-
-  <td class="title">
-
-  Menu
-
-  </td>
-
-  </tr>
-
-  <tr>
-
-  <td align="left">
-<a href="index.php">News</a>
-<br/><a href="user.php">Anmelden</a>
-<a href="info.php">Information</a>
-<br/><a href="team.php">Team</a>
-<br/><a href="rules.php">Rules</a>
-<br/><a href="teilnehmer.php">Teilnehmer</a>
-<br/><a href="sitzplan.php">Sitzplan</a>
-<br/><a href="location.php">Location</a>
-<br/><a href="forum.php">Forum</a>
-</td>
-
-  </tr>
-
-  </table>
-
-  </td>
-
-  <td class="main" rowspan="2" style="width: 660px;">
-<table>
-<tr>
-<td class="title" style="width: 660px;">
-News 07.02.2002</td>
-</tr>
-</table>
-<br/>
-<table><tr><td class="title" style="width: 660px;" align="left">Page eröffnung by [z]cylander on 06. Jan. - 22:07</td></tr><tr><td align="left"><br/>So, die Page ist nun offiziell online. Anmeldung, Sitzplan reservierung, Forum und alles sollte funktionieren.
-<br/>
-
-<br/>
-Bei fehler bitte an info@fraggeria.ch mailen. 
-<br/>
-
-<br/>
-Danke<br/></td></tr><tr><td style="text-align: right;" align="left"><a href="index.php?nid=1">comments (...0)</a>
-</td></tr></table><br/><br/></td></tr><tr>
-
-  <td class="main" style="width: 120px">
-
-  
-  <table width="120">
-
-  <tr>
-
-  <td class="title">
-
-  Validation
-  </td>
-
-  </tr>
-
-  <tr>
-
-  <td style="text-align: center;">
-
-  <br/>
-  <a href="http://jigsaw.w3.org/css-validator/validator?uri=http://www.fraggeria.ch/index.php">
-    <img src="img/valid-css.gif" style="width:88px;height:31px" alt="Valid CSS!"/>
-
-  </a>
-  <br/>
-  <br/>
-  <a href="http://validator.w3.org/check/referer">
-
-    <img src="img/valid-xhtml.png" alt="Valid XHTML 1.0!" style="width:88px;height:31px"/>
-
-  </a>
-  </td>
-  </tr>
-  </table>
-
-  </td>
-
-  </tr><tr>
-
-  <td class="main" colspan="3" style="text-align: center; width: 800px;">
-
-  Copyright &copy; 2001 - 2002 <a href="http://www.zooomclan.org/">zooomclan</a>
+  Copyright &copy; 2001 - 2003 <a href="http://www.zooomclan.org">zooomclan</a>
   </td>
 
   </tr>
@@ -362,4 +272,4 @@ Danke<br/></td></tr><tr><td style="text-align: right;" align="left"><a href="ind
 
   </body>
 
-</html>
+  </html>
